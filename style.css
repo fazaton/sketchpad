@@ -1,0 +1,20 @@
+.cls {
+  height: 30px;
+  width: 30px;
+  background-color: pink;
+}
+
+#main {
+  height: 193px;
+  width: 193px;
+  background-color: yellow;
+}
+
+.squares {
+  height: 10px;
+  width: 10px;
+  margin: 1px;
+  background-color: blue;
+  display: inline-block;
+  float: left;
+}
